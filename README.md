@@ -1,5 +1,5 @@
 # Video-Summarizer
-
+      This application will extract the speech from video, convert it into text and summarize the text
 # For App Demo, Click on the below video
 
 [![Watch the video](output/out5.jpg)](https://drive.google.com/file/d/15WgfkX9VQgrV947sjZO7CwEwhdswGIS6/view?usp=sharing)
